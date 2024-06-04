@@ -44,7 +44,6 @@ width: 300px
 .banner{
     width: 100%;/* largura total*/
     text-align: center;/*centraliza o conteudo*/
-    display: inline-block;/*coloca centro lado a lado*/
 }
 
 .banner p{
@@ -54,11 +53,11 @@ width: 300px
   
 
 .banner img{
-    width: 40%;/*largura da imagem*/
+    width: 30%;/*largura da imagem*/
     display: inline-block;/*coloca centro lado a lado*/
 }
 
-.center{
+.centro{
     width: 40%;/*largura da centro*/
     display: inline-block;/*coloca centro lado a lado*/
     vertical-align: middle;/*alinha verticalmente ao meio*/
